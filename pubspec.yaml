@@ -25,6 +25,8 @@ dependencies:
   cupertino_icons: ^0.1.2
   table_calendar: ^2.2.3
   shared_preferences: ^0.5.8
+  firebase_helpers: ^0.1.11
+  cloud_firestore: ^0.13.7
 
 dev_dependencies:
   flutter_test:

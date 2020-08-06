@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659083469760",
+    "firebase_url": "https://calendar-a56cb.firebaseio.com",
+    "project_id": "calendar-a56cb",
+    "storage_bucket": "calendar-a56cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659083469760:android:a9730986c43a12203bde25",
+        "android_client_info": {
+          "package_name": "com.example.integradora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659083469760-otoi0klprteh4ruqrmsqe24tm5deesmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7i8a1oOne4Wiaa_Wd7pVmXGmupkcKJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659083469760-otoi0klprteh4ruqrmsqe24tm5deesmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
